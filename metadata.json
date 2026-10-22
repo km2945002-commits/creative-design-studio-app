@@ -1,0 +1,6 @@
+{
+  "name": "Creative Studio",
+  "description": "Transform ideas into professional websites, apps, logos, packaging, and brand identities with modern AI tools, WordPress, CorelDRAW, and Adobe Illustrator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
